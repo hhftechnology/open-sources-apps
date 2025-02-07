@@ -10,7 +10,7 @@ Before you start contributing, please take a moment to review the existing apps 
 *   [`unraid-apps.md`](unraid-apps.md): This file lists the apps within each category, with links to their individual pages.
 *   [`review.md`](review.md): This file contains the reviews for each app.
 
-If you're unsure about anything, don't hesitate to open an [issue](https://github.com/YOUR_USERNAME/YOUR_REPO/issues) for clarification.
+If you're unsure about anything, don't hesitate to open an [issue](https://github.com/hhftechnology/open-sources-apps/issues) for clarification.
 
 ## Ways to Contribute
 
@@ -90,7 +90,7 @@ There are several ways you can contribute to the Unraid Community Apps Collectio
 
 ## Suggesting Improvements or Reporting Issues
 
-For general suggestions or bug reports, please open a new [issue](https://github.com/YOUR_USERNAME/YOUR_REPO/issues) on the repository.  Be as detailed as possible in your description.
+For general suggestions or bug reports, please open a new [issue](https://github.com/hhftechnology/open-sources-apps/issues) on the repository.  Be as detailed as possible in your description.
 
 ## Style Guide and Best Practices
 
